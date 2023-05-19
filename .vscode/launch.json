@@ -1,0 +1,10 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "ranked_choice_voting",
+            "request": "launch",
+            "type": "dart"
+        },
+    ]
+}
